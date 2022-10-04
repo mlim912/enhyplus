@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\components",
+    "\\src\\features",
+    "\\src\\features\\movie"
+  ],
+  "SelectedNode": "\\src\\firebase.js",
+  "PreviewInSolutionExplorer": false
+}
